@@ -1,0 +1,14 @@
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\bin\Debug\net8.0\HelloWord.exe
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\bin\Debug\net8.0\HelloWord.deps.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\bin\Debug\net8.0\HelloWord.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\bin\Debug\net8.0\HelloWord.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\bin\Debug\net8.0\HelloWord.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\obj\Debug\net8.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\obj\Debug\net8.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\obj\Debug\net8.0\HelloWord.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\obj\Debug\net8.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\obj\Debug\net8.0\HelloWord.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\obj\Debug\net8.0\refint\HelloWord.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\obj\Debug\net8.0\HelloWord.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\obj\Debug\net8.0\HelloWord.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\HelloWord\HelloWord\obj\Debug\net8.0\ref\HelloWord.dll
