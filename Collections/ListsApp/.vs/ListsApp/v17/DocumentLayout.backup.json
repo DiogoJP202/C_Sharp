@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\Collections\\ListsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51C1AD-5D24-4B3E-B046-EBF0984D88B8}|ListsApp\\ListsApp.csproj|c:\\users\\diogo\\onedrive\\documentos\\estudos\\udemycsharp\\aulas\\collections\\listsapp\\listsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51C1AD-5D24-4B3E-B046-EBF0984D88B8}|ListsApp\\ListsApp.csproj|solutionrelative:listsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE51C1AD-5D24-4B3E-B046-EBF0984D88B8}|ListsApp\\ListsApp.csproj|c:\\users\\diogo\\onedrive\\documentos\\estudos\\udemycsharp\\aulas\\collections\\listsapp\\listsapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE51C1AD-5D24-4B3E-B046-EBF0984D88B8}|ListsApp\\ListsApp.csproj|solutionrelative:listsapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\Collections\\ListsApp\\ListsApp\\Product.cs",
+              "RelativeDocumentMoniker": "ListsApp\\Product.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\Collections\\ListsApp\\ListsApp\\Product.cs",
+              "RelativeToolTip": "ListsApp\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:59:24.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\Collections\\ListsApp\\ListsApp\\Program.cs",
+              "RelativeDocumentMoniker": "ListsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\Collections\\ListsApp\\ListsApp\\Program.cs",
+              "RelativeToolTip": "ListsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:58:19.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

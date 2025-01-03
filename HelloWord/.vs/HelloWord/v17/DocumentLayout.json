@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\HelloWord\\",
+  "WorkspaceRootPath": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\HelloWord\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D6F8EDA-AEC6-42A5-9247-C71F27C8B1A1}|HelloWord\\HelloWord.csproj|c:\\users\\diogo\\onedrive\\documentos\\estudos\\udemycsharp\\helloword\\helloword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D6F8EDA-AEC6-42A5-9247-C71F27C8B1A1}|HelloWord\\HelloWord.csproj|c:\\users\\diogo\\onedrive\\documentos\\estudos\\udemycsharp\\aulas\\helloword\\helloword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D6F8EDA-AEC6-42A5-9247-C71F27C8B1A1}|HelloWord\\HelloWord.csproj|solutionrelative:helloword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\HelloWord\\HelloWord\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\HelloWord\\HelloWord\\Program.cs",
               "RelativeDocumentMoniker": "HelloWord\\Program.cs",
-              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\HelloWord\\HelloWord\\Program.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\HelloWord\\HelloWord\\Program.cs",
               "RelativeToolTip": "HelloWord\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T16:37:06.094Z",
               "EditorCaption": ""

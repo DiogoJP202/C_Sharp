@@ -1,0 +1,15 @@
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\bin\Debug\net8.0\Aula2.exe
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\bin\Debug\net8.0\Aula2.deps.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\bin\Debug\net8.0\Aula2.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\bin\Debug\net8.0\Aula2.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\bin\Debug\net8.0\Aula2.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\obj\Debug\net8.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\obj\Debug\net8.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\obj\Debug\net8.0\Aula2.sourcelink.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\obj\Debug\net8.0\Aula2.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\obj\Debug\net8.0\refint\Aula2.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\obj\Debug\net8.0\Aula2.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\obj\Debug\net8.0\Aula2.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Aula2\Aula2\obj\Debug\net8.0\ref\Aula2.dll

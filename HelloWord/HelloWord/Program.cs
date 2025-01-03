@@ -1,11 +1,16 @@
-﻿namespace HelloWorld
+﻿using System;
+
+class URI
 {
-    class MainClass
+    static void Main(string[] args)
     {
-        static void Main(String[] args)
+
+        int N = int.Parse(Console.ReadLine());
+
+        for (int i = 1; i <= N; i++)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
+            Console.WriteLine($"{i} {Math.Pow(i, 2)} {Math.Pow(i, 3)}");
         }
+        Console.ReadKey();
     }
-} 
+}

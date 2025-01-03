@@ -1,0 +1,15 @@
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\bin\Debug\net8.0\ListsApp.exe
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\bin\Debug\net8.0\ListsApp.deps.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\bin\Debug\net8.0\ListsApp.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\bin\Debug\net8.0\ListsApp.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\bin\Debug\net8.0\ListsApp.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\obj\Debug\net8.0\ListsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\obj\Debug\net8.0\ListsApp.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\obj\Debug\net8.0\ListsApp.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\obj\Debug\net8.0\ListsApp.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\obj\Debug\net8.0\ListsApp.sourcelink.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\obj\Debug\net8.0\ListsApp.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\obj\Debug\net8.0\refint\ListsApp.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\obj\Debug\net8.0\ListsApp.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\obj\Debug\net8.0\ListsApp.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\ListsApp\ListsApp\obj\Debug\net8.0\ref\ListsApp.dll
