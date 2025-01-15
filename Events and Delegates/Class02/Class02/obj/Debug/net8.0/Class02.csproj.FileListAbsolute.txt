@@ -1,0 +1,15 @@
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\bin\Debug\net8.0\Class02.exe
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\bin\Debug\net8.0\Class02.deps.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\bin\Debug\net8.0\Class02.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\bin\Debug\net8.0\Class02.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\bin\Debug\net8.0\Class02.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\obj\Debug\net8.0\Class02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\obj\Debug\net8.0\Class02.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\obj\Debug\net8.0\Class02.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\obj\Debug\net8.0\Class02.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\obj\Debug\net8.0\Class02.sourcelink.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\obj\Debug\net8.0\Class02.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\obj\Debug\net8.0\refint\Class02.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\obj\Debug\net8.0\Class02.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\obj\Debug\net8.0\Class02.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class02\Class02\obj\Debug\net8.0\ref\Class02.dll
