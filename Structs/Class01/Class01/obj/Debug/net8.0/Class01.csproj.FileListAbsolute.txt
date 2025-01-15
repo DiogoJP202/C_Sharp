@@ -1,0 +1,15 @@
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\bin\Debug\net8.0\Class01.exe
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\bin\Debug\net8.0\Class01.deps.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\bin\Debug\net8.0\Class01.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\bin\Debug\net8.0\Class01.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\bin\Debug\net8.0\Class01.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\obj\Debug\net8.0\Class01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\obj\Debug\net8.0\Class01.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\obj\Debug\net8.0\Class01.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\obj\Debug\net8.0\Class01.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\obj\Debug\net8.0\Class01.sourcelink.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\obj\Debug\net8.0\Class01.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\obj\Debug\net8.0\refint\Class01.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\obj\Debug\net8.0\Class01.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\obj\Debug\net8.0\Class01.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Structs\Class01\Class01\obj\Debug\net8.0\ref\Class01.dll

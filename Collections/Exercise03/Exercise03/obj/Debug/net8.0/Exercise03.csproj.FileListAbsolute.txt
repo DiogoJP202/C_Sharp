@@ -1,0 +1,15 @@
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\bin\Debug\net8.0\Exercise03.exe
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\bin\Debug\net8.0\Exercise03.deps.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\bin\Debug\net8.0\Exercise03.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\bin\Debug\net8.0\Exercise03.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\bin\Debug\net8.0\Exercise03.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\obj\Debug\net8.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\obj\Debug\net8.0\Exercise03.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\obj\Debug\net8.0\Exercise03.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\obj\Debug\net8.0\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\obj\Debug\net8.0\Exercise03.sourcelink.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\obj\Debug\net8.0\Exercise03.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\obj\Debug\net8.0\refint\Exercise03.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\obj\Debug\net8.0\Exercise03.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\obj\Debug\net8.0\Exercise03.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Collections\Exercise03\Exercise03\obj\Debug\net8.0\ref\Exercise03.dll

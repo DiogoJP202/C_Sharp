@@ -1,0 +1,15 @@
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\bin\Debug\net8.0\Class03.exe
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\bin\Debug\net8.0\Class03.deps.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\bin\Debug\net8.0\Class03.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\bin\Debug\net8.0\Class03.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\bin\Debug\net8.0\Class03.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\obj\Debug\net8.0\Class03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\obj\Debug\net8.0\Class03.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\obj\Debug\net8.0\Class03.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\obj\Debug\net8.0\Class03.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\obj\Debug\net8.0\Class03.sourcelink.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\obj\Debug\net8.0\Class03.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\obj\Debug\net8.0\refint\Class03.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\obj\Debug\net8.0\Class03.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\obj\Debug\net8.0\Class03.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Inheritance\Class03\Class03\obj\Debug\net8.0\ref\Class03.dll
