@@ -23,7 +23,7 @@
 
             // Creating a multicast delegate:
             LogHandler logHandler = logger.LogToConsole;
-            // This '+=' is just saying 'add to the old method that is already in there, this other one'. 
+            // This '+=' is just saying add to the old method that is already in there, this other one'. 
             logHandler += logger.LogToFile;
 
             // Invoking the multicast delegate:

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFA0DBE-873F-4345-9CFB-4685744CB774}|DataBinding\\DataBinding.csproj|c:\\users\\diogo\\onedrive\\documentos\\estudos\\udemycsharp\\aulas\\windowspresentationfoundation\\databinding\\databinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFA0DBE-873F-4345-9CFB-4685744CB774}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFA0DBE-873F-4345-9CFB-4685744CB774}|DataBinding\\DataBinding.csproj|c:\\users\\diogo\\onedrive\\documentos\\estudos\\udemycsharp\\aulas\\windowspresentationfoundation\\databinding\\databinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EFA0DBE-873F-4345-9CFB-4685744CB774}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFA0DBE-873F-4345-9CFB-4685744CB774}|DataBinding\\DataBinding.csproj|c:\\users\\diogo\\onedrive\\documentos\\estudos\\udemycsharp\\aulas\\windowspresentationfoundation\\databinding\\databinding\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFA0DBE-873F-4345-9CFB-4685744CB774}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFA0DBE-873F-4345-9CFB-4685744CB774}|DataBinding\\DataBinding.csproj|c:\\users\\diogo\\onedrive\\documentos\\estudos\\udemycsharp\\aulas\\windowspresentationfoundation\\databinding\\databinding\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFA0DBE-873F-4345-9CFB-4685744CB774}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFA0DBE-873F-4345-9CFB-4685744CB774}|DataBinding\\DataBinding.csproj|c:\\users\\diogo\\onedrive\\documentos\\estudos\\udemycsharp\\aulas\\windowspresentationfoundation\\databinding\\databinding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EFA0DBE-873F-4345-9CFB-4685744CB774}|DataBinding\\DataBinding.csproj|solutionrelative:databinding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\DataBinding\\App.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\App.xaml",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\DataBinding\\App.xaml",
+              "RelativeToolTip": "DataBinding\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T00:04:06.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\DataBinding\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DataBinding\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\DataBinding\\AssemblyInfo.cs",
+              "RelativeToolTip": "DataBinding\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:57:11.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\DataBinding\\Data\\Person.cs",
+              "RelativeDocumentMoniker": "DataBinding\\Data\\Person.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\DataBinding\\Data\\Person.cs",
+              "RelativeToolTip": "DataBinding\\Data\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:55:10.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\DataBinding\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DataBinding\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\DataBinding\\MainWindow.xaml",
+              "RelativeToolTip": "DataBinding\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-27T21:09:06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\DataBinding\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DataBinding\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\diogo\\OneDrive\\Documentos\\Estudos\\UdemyCSharp\\Aulas\\WindowsPresentationFoundation\\DataBinding\\DataBinding\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DataBinding\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:09:05.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

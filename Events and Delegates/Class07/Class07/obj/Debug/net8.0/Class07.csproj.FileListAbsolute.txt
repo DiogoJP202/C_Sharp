@@ -1,0 +1,15 @@
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\bin\Debug\net8.0\Class07.exe
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\bin\Debug\net8.0\Class07.deps.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\bin\Debug\net8.0\Class07.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\bin\Debug\net8.0\Class07.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\bin\Debug\net8.0\Class07.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\obj\Debug\net8.0\Class07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\obj\Debug\net8.0\Class07.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\obj\Debug\net8.0\Class07.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\obj\Debug\net8.0\Class07.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\obj\Debug\net8.0\Class07.sourcelink.json
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\obj\Debug\net8.0\Class07.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\obj\Debug\net8.0\refint\Class07.dll
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\obj\Debug\net8.0\Class07.pdb
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\obj\Debug\net8.0\Class07.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Documentos\Estudos\UdemyCSharp\Aulas\Events and Delegates\Class07\Class07\obj\Debug\net8.0\ref\Class07.dll
